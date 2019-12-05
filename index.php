@@ -113,8 +113,8 @@
     <div class="col-12 text-center">
         <h2 id="titre4">Nous Suivre sur les réseaux sociaux</h2>
         <br>
-        <img class="logo_sn" src="photos/instagram.png" alt="instagram_logo">
-        <img class="logo_sn" src="photos/linkedin.png" alt="linkedin_logo">
+        <img class="logo_sn" src="photos/instagram.png" alt="instagram_logo" onclick="location.href='https://www.instagram.com/famosport_'">
+        <img class="logo_sn" src="photos/linkedin.png" alt="linkedin_logo" onclick="location.href='https://www.linkedin.com/company/famosport'">
     </div>
 </div>
 
