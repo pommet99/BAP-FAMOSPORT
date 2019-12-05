@@ -1,0 +1,39 @@
+a, a:hover, a:focus, a:visited {
+    color: #0aa8d8;;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 130%;
+}
+
+body {
+    line-height: 2;
+    background-color: rgb(255, 255, 255);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h2 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h3{
+    color: black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+hr {
+    border: 1.5px solid #bcb3ad;
+    border-radius: 10px;
+}
+
