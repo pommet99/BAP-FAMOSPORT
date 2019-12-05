@@ -11,6 +11,9 @@
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 
+    <h1 id="head_title">FAMOSPORT</h1>
+    <h2></h2>
+
     <!-- Navigation -->
     <header>
         <ul class="nav justify-content-center">
@@ -21,12 +24,13 @@
                 <a class="nav-link" href="#titre2">Activités</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#titre3">Donations</a>
+                <a class="nav-link" href="#titre3">Donation</a>
             </li>
         </ul>
     </header>
 
     <body>
+
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
@@ -58,8 +62,8 @@
             <h2 id="titre1">Présentation</h2>
             <br>
             <p>FamoSport est une association sportive créer par Marion Choieb, l'on vise ici à sortir les femmes de leurs maison pour les encourager 
-                à socialisé avec d'autres femmes comme elles. Le sport est une un créateur de liens, l'on encourage les femmes à être la meileure version 
-                d'elles même et être en meilleur santé possible.
+                à socialisé avec d'autres femmes comme elles. Le sport est un créateur de liens, où l'on encourage les femmes à être la meileure version
+                d'elles mêmes et être en meilleur santé possible.
             </p>
             <br>
         </div>
@@ -97,8 +101,26 @@
     <hr>
     <br><br><br>
     </div>
-</div>
+
 <br><br>
+
+
+<br><br>
+<hr>
+<br><br><br>
+
+<div class="row">
+    <div class="col-12 text-center">
+        <h2 id="titre4">Nous Suivre sur les réseaux sociaux</h2>
+        <br>
+        <img class="logo_sn" src="photos/instagram.png" alt="instagram_logo">
+        <img class="logo_sn" src="photos/linkedin.png" alt="linkedin_logo">
+    </div>
+</div>
+
+<br><br>
+<hr>
+<br><br><br>
 
 <!-- Footer -->
 <div class="footer">
@@ -108,6 +130,10 @@
     </p>
 </div>
 <br>
+
+
+
+
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->

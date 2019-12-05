@@ -1,7 +1,26 @@
-a, a:hover, a:focus, a:visited {
-    color: #0aa8d8;;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 130%;
+a:hover, a:focus  {
+
+    cursor: pointer;
+}
+
+.logo_sn {
+    width: 6%;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: #0aa8d8;
+    font-family: 'OpenSans_Regular', serif;
+    font-size: 24px;
+
+}
+
+
+@font-face {
+    font-family: 'OpenSans_Regular';
+    src: url("fonts/open-sans/OpenSans-Regular.ttf");
 }
 
 body {
@@ -15,25 +34,30 @@ html {
 
 h2 {
     color: black;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'OpenSans_Regular', serif;
     text-align: center;
 }
 
 h3{
     color: black;
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'OpenSans_Regular', serif;
 }
 
 p {
     color: black;
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'OpenSans_Regular', serif;
 
 }
 
 hr {
     border: 1.5px solid #bcb3ad;
     border-radius: 10px;
+}
+
+
+#head_title {
+    text-align: center;
 }
 
