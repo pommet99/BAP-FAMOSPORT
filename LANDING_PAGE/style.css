@@ -1,39 +1,22 @@
-@font-face {
-    font-family: "Futura-Condensed-PT";
-    src: url("futura-condensed-pt-cufonfonts/futura-pt-demibold-589e43b852117.otf");
-}
+body{
+     background-image: url(strong-ladies.jpg);
+     background-size: 1400px;
 
-h2 {
-    font-family: Futura-Condensed-PT, serif;
-    text-align: center;
-    color: white;
-    margin-top: 250px;
 
 }
 
-body {
-    background : url("strong-ladies.jpg") no-repeat center center fixed;
-    background-size: cover;
-
-}
-
-.time {
-    width: 175px;
-    height: 175px;
-    background-color: white;
-    border-radius: 50%;
-    display: inline-block;
-    margin-left: 75px;
-    color: #848383;
-    line-height: 175px;
-}
-
-#circle {
-    text-align: center;
+.container{
+    margin-top: 15%;
+    margin-left: 30%;
     font-size: 35px;
-    font-family: Futura-Condensed-PT, serif;
-
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 25px;
 }
+
+
+
+
 
 
 
